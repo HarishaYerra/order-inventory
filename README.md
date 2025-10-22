@@ -13,7 +13,7 @@ ________________________________________
     •	Dockerized Deployment — Containerized microservices for portability.
     •	Kubernetes Orchestration — Scaling, load balancing, and service management.
     •	REST APIs — CRUD operations for customers, products, inventory, and orders.
-    •	Inter-service Communication — Feign clients / RestTemplate (depending on implementation).
+    •	Inter-service Communication — Feign clients / RestTemplate (depending on implementation)
 ________________________________________
 **🛠 Tech Stack**
 
