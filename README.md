@@ -1,7 +1,7 @@
 **Order-Inventory Microservices Project**
 ________________________________________
 
-A cloud-ready, microservices-based application that manages customers, products, inventory, and orders. It is built with Spring Boot, Spring Security (JWT), Docker, and Kubernetes, following a fully distributed architecture with service discovery, API gateway, and centralized configuration
+A cloud-ready, microservices-based application that manages customers, products, inventory, and orders. It is built with Spring Boot, Spring Security (JWT), Docker, and Kubernetes, following a fully distributed architecture with service discovery, API gateway, and centralized configuration.
 ________________________________________
 **✨ Features**
 
